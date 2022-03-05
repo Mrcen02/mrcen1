@@ -2,14 +2,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>more</title>
 </head>
-<style>
-h4{color:#C6C}
-</style>
-
 <body>
-![image]("https://github.com/Mrcen02/img/blob/main/20220304_193220.jpeg?raw=true")
+![image text](img/20220304_193220.jpeg)
 <font color="#CCFFCC"><h1 align="center">关于我</h1></font>
 <p align="center"><font color="#9966FF"><em>学号：</em></font>43 <font color="#CC66CC"><em>班级：</em></font>计算机2005</p>
 <h4 align="center"><em>状态：</em>在读大二学生</h4>
